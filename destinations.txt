@@ -1,0 +1,4 @@
+Jupiter 1000 8 60
+Saturn 500 5 40
+Neptune 200 10 90
+Mars 4000 15 100
